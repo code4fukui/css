@@ -1,5 +1,7 @@
 # CSS
 
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 CSS project that provides a rainbow text effect.
 
 ## Demo
