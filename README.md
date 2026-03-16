@@ -2,7 +2,7 @@
 
 > 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
 
-CSS project that provides a rainbow text effect.
+This repository provides a CSS-based library that creates an animated rainbow text effect.
 
 ## Demo
 [rainbow demo](https://code4fukui.github.io/css/rainbow.html)
@@ -20,4 +20,4 @@ To use the rainbow effect, include the CSS file and apply the `rainbow` class to
 ```
 
 ## License
-MIT License
+MIT License — see [LICENSE](LICENSE).
