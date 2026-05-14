@@ -6,7 +6,7 @@ A lightweight CSS library for creating an animated rainbow text effect with a bl
 
 ## Demo
 
-[View the live demo](https://code4fukui.github.io/css/rainbow.html)
+[View the live demo](https://github.com/code4fukui/css)
 
 ## Features
 

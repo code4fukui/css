@@ -4,7 +4,7 @@
 
 ## デモ
 
-[ライブデモを見る](https://code4fukui.github.io/css/rainbow.html)
+[ライブデモを見る](https://github.com/code4fukui/css)
 
 ## 特徴
 
